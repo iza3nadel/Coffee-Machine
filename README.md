@@ -1,13 +1,18 @@
 # Coffee Machine
 
-Prosty symulator automatu do kawy napisany w Pythonie jako część kursu Udemy "100 Days of Code".
+Simple Coffee Machine Simulator in Python — part of the Udemy course "100 Days of Code"
 
-Opis:
-- Program symuluje maszynę do przygotowywania kawy z trzema rodzajami napojów: `latte`, `espresso` i `cappuccino`.
-- Obsługuje sprawdzenie zasobów (woda, mleko, kawa), płatność monetami oraz wydawanie reszty.
+Description:
 
-Pliki:
-- `main.py` — główny skrypt uruchamiający interakcję z użytkownikiem (wybór napoju, raport, wyłączenie).
-- `coffee_maker.py` — klasa `CoffeeMaker` zarządzająca zasobami i przygotowaniem napojów.
-- `menu.py` — klasy `Menu` i `MenuItem` definiujące dostępne napoje i ich składniki.
-- `money_machine.py` — klasa `MoneyMachine` obsługująca przyjmowanie monet i płatności.
+The program simulates a coffee machine with three types of drinks: latte, espresso, and cappuccino.
+It handles checking resources (water, milk, coffee), processing coin payments, and giving change.
+
+Files:
+
+main.py — the main script that runs user interaction (drink selection, report, shutdown).
+
+coffee_maker.py — the CoffeeMaker class managing resources and drink preparation.
+
+menu.py — the Menu and MenuItem classes defining available drinks and their ingredients.
+
+money_machine.py — the MoneyMachine class handling coin input and payments.
