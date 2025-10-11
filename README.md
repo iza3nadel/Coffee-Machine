@@ -9,10 +9,10 @@ It handles checking resources (water, milk, coffee), processing coin payments, a
 
 Files:
 
-main.py — the main script that runs user interaction (drink selection, report, shutdown).
+- `main.py` — the main script that runs user interaction (drink selection, report, shutdown).
 
-coffee_maker.py — the CoffeeMaker class managing resources and drink preparation.
+- `coffee_maker.py` — the CoffeeMaker class managing resources and drink preparation.
 
-menu.py — the Menu and MenuItem classes defining available drinks and their ingredients.
+- `menu.py` — the Menu and MenuItem classes defining available drinks and their ingredients.
 
-money_machine.py — the MoneyMachine class handling coin input and payments.
+- `money_machine.py` — the MoneyMachine class handling coin input and payments.
