@@ -1,4 +1,4 @@
-# Coffee Machine (Day 16)
+# Coffee Machine
 
 Prosty symulator automatu do kawy napisany w Pythonie jako część kursu Udemy "100 Days of Code" — dzień 16.
 
